@@ -99,9 +99,6 @@ export default function Navbar() {
           </Link>
         </li>
       </ul>
-      {/* <div className="pt-6 border-t border-slate-800 text-xs text-slate-500 text-center">
-        Dashboard v1.0.0
-      </div> */}
     </aside>
   );
 }
